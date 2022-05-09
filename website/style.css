@@ -1,0 +1,81 @@
+body{
+    background-color: #a13e00;
+}
+.nav-link{
+    color: #f7833b;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.nav-item{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f7833b;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.nav-item:hover{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f7833b;
+    background-color: #f7833b;
+    color: white;
+}
+
+#text{
+    padding-top: 200px;
+}
+
+#hi{ /* Hi, I'm */
+    font-size: 1.5em;
+    color: #f7833b;
+}
+
+#name{ /* Damian Pacynko */
+    font-size: 6em;
+    color: white;
+}
+
+#desc-container{ 
+    padding-top: 50px;
+}
+
+#desc{ /* Description */
+    font-size: 1.45em;
+    color: lightgray;
+}
+
+#footer{
+    position: fixed;
+    bottom: 50px;
+}
+
+.list-group-item{
+    background-color: transparent;
+    border: none;
+}
+
+#icon{
+    color: black;
+}
+
+#icon:hover{
+    color: #f7833b;
+}
+
+.fa-linkedin{
+    padding-left: 20px;
+}
+
+.fa-file-lines{
+    padding-left: 20px;
+    padding-top: 10px
+}
+
+.fa-at{
+    padding-left: 16px;
+    padding-top: 10px;
+}
